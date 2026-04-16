@@ -4,7 +4,7 @@ import "./App.css";
 import { useDispatch } from "react-redux";
 import { addToCart } from "./cartSlice";
 import Add2Cart from "./Component/Add2Cart";
-import Home from "./Component/Home";
+// import Home from "./Component/Home";
 
 function App() {
   const [product, setProduct] = useState([]);
