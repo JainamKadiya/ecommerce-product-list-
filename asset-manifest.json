@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JainamKadiya/ecommerce-product-list-.git/static/css/main.dc4d6ff2.css",
-    "main.js": "/JainamKadiya/ecommerce-product-list-.git/static/js/main.3a796397.js",
-    "static/js/453.a90cab21.chunk.js": "/JainamKadiya/ecommerce-product-list-.git/static/js/453.a90cab21.chunk.js",
-    "index.html": "/JainamKadiya/ecommerce-product-list-.git/index.html",
-    "main.dc4d6ff2.css.map": "/JainamKadiya/ecommerce-product-list-.git/static/css/main.dc4d6ff2.css.map",
-    "main.3a796397.js.map": "/JainamKadiya/ecommerce-product-list-.git/static/js/main.3a796397.js.map",
-    "453.a90cab21.chunk.js.map": "/JainamKadiya/ecommerce-product-list-.git/static/js/453.a90cab21.chunk.js.map"
+    "main.css": "./static/css/main.dc4d6ff2.css",
+    "main.js": "./static/js/main.e0d716a1.js",
+    "static/js/453.a90cab21.chunk.js": "./static/js/453.a90cab21.chunk.js",
+    "index.html": "./index.html",
+    "main.dc4d6ff2.css.map": "./static/css/main.dc4d6ff2.css.map",
+    "main.e0d716a1.js.map": "./static/js/main.e0d716a1.js.map",
+    "453.a90cab21.chunk.js.map": "./static/js/453.a90cab21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.3a796397.js"
+    "static/js/main.e0d716a1.js"
   ]
 }
